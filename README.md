@@ -10,7 +10,19 @@ Heart disease presence
 
 ## 🧠 Model Explanation
 
-Random Forest is an ensemble method that builds multiple decision trees and aggregates their results for better accuracy and generalization.
+The Random Forest Algorithm is one of the most powerful and widely used algorithms in machine learning. It's used for both classification and regression tasks, and it belongs to a category of models called ensemble learning.
+
+🎯 Why Use a Random Forest Instead of One Tree? 
+
+A single decision tree is simple but can be very sensitive to noise or overfitting (memorizing the training data too well). Random Forest solves this by:
+
+Creating many trees (hundreds or even thousands).
+
+Training each tree on different random parts of the data.
+
+Using random features for splitting at each node.
+
+By averaging all these trees, Random Forest makes much more robust and accurate predictions.
 
 ## ✅ Benefits
 
